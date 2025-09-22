@@ -17,7 +17,7 @@ const data_chuky = [
   },
 ];
 
-const sheetIDChuKy = " 1oKFR7jtMiJ4evhFKkZ61U8QMatfHyyJk0lICM_kaOvg";
+const sheetIDChuKy = "1oKFR7jtMiJ4evhFKkZ61U8QMatfHyyJk0lICM_kaOvg";
 const gidChuKy = "421209448";
 const urlSheetChuKy = `https://docs.google.com/spreadsheets/d/${sheetIDChuKy}/gviz/tq?tqx=out:json&gid=${gidChuKy}`;
 
